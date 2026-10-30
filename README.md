@@ -1,4 +1,4 @@
-[![Terminal Profile](profile.svg)](https://github.com/0xSohaib)
+![Terminal Profile](profile.svg)
 
 <!--
 **0xSohaib/0xSohaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
